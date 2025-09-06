@@ -92,6 +92,9 @@ open QuickkSynkk.xcworkspace
 - [ ] Unit/UI testing coverage  
 - [ ] iPad multi-column layout support  
 
+## Figma link:
+- https://www.figma.com/design/JAXzz3kbPK1rCfERgvPoob/CodeCatalysts-UI?node-id=34-87&t=kSAVsVZQOtpwoAkA-1
+
 ## 🤝 Contributing  
 
 Contributions are welcome! 🚀  
