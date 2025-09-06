@@ -1,11 +1,11 @@
-# QuickkSynkk  
+# QuickSync
 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0-blue?logo=swift)](https://developer.apple.com/xcode/swiftui/)  
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-yellow?logo=firebase)](https://firebase.google.com/)  
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016%2B-lightgrey?logo=apple)](https://developer.apple.com/ios/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
-**QuickkSynkk** is a collaboration platform built with **SwiftUI** and **Firebase** that helps developers, designers, and professionals **discover, join, and collaborate** on teams and projects. Featuring **real-time data**, **authentication**, and an **AI-powered matchmaking engine**, QuickkSynkk enables seamless user profiles, team management, event scheduling, and collaboration requests.  
+**QuickSync** is a collaboration platform built with **SwiftUI** and **Firebase** that helps developers, designers, and professionals **discover, join, and collaborate** on teams and projects. Featuring **real-time data**, **authentication**, and an **AI-powered matchmaking engine**, QuickkSynkk enables seamless user profiles, team management, event scheduling, and collaboration requests.  
 
 ---
 
